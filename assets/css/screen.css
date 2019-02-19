@@ -36,6 +36,8 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .main-content {
     min-height:300px;
+    background-color: #d3d3d32e;
+    padding: 1em;
 }
  .site-content {
      min-height: 60vh;
@@ -132,6 +134,13 @@ License: https://www.wowthemes.net/freebies-license/
      margin-right:13px;
      border-radius:100%;
 }
+ .about-thumb {
+    width:90px;
+    height:90px;
+     float:left;
+    margin-right:13px;
+    border-radius:100%;
+}
  .post-top-meta {
      margin-bottom:2rem;
 }
@@ -220,6 +229,17 @@ License: https://www.wowthemes.net/freebies-license/
  .mediumnavigation .navbar-brand img {
      max-height:30px;
      margin-right:5px;
+
+}
+ #mainheader {
+     text-align: center;
+}
+ .mainheading img {
+     margin-bottom: 1em;
+}
+ .mainheading .lead {
+     font-size: .9rem;
+     color: darkgray;
 }
  .mainheading h1.sitetitle {
      font-family:Righteous;
@@ -228,6 +248,9 @@ License: https://www.wowthemes.net/freebies-license/
      font-weight:700;
      margin-bottom:1rem;
 }
+ .alertbar img {
+     max-height: 80px;
+ }
  .footer {
      border-top:1px solid rgba(0,0,0,.05)!important;
      padding-top:15px;
@@ -496,6 +519,10 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .authorpage .author-description {
      font-size:1rem;
+     color:rgba(0,0,0,.6);
+}
+ .about-author-description {
+     font-size:.8rem;
      color:rgba(0,0,0,.6);
 }
  .post-top-meta.authorpage .btn.follow {
