@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl:
 google_analytics: 'UA-132326218-1'
 disqus: 'toutnouveautoutbeau'
-mailchimp-list: 'https://us20.admin.mailchimp.com/lists/members/?id=19905'
+mailchimp-list: 'https://toutnouveautoutbeau.us20.list-manage.com/subscribe/post?u=c9482545a69f95d98c9c065e6&amp;id=3131b25ba7'
 include: ["_pages"]
 permalink: /:title/
 # Authors
