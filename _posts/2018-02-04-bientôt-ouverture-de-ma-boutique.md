@@ -8,7 +8,7 @@ featured: true
 hidden: false
 ---
 
-Comme je vous en parlais dans mon premier article, je vais bientôt ouvrir ma boutique en ligne. Je pense l'ouvrir sur la plateforme <i>Etsy</i> et vous serait les premiers informés dès que ça sera fait.<br><br>
+Comme je vous en parlais dans mon premier article, je vais bientôt ouvrir ma boutique en ligne. Je pense l'ouvrir sur la plateforme <i>Etsy</i> et vous serez les premiers informés dès que ça sera fait.<br><br>
 Pour le moment je prépare en amont quelques articles pour ne pas ouvrir ma boutique à vide !<br>
 Les recherches et démarches administratives ainsi que la création de ce blog me prenant pas mal de temps pour le moment, je n'ai pas avancé comme je l'espérais, mais patience tout sera prêt d'ici peu.<br><br>
 Je vais donc proposer à la vente des coffrets de naissance tout faits. L'unicité du produit, la cohérence des tissus et matières et un choix varié dans les modèles seront les atouts de mes offres.<br>
