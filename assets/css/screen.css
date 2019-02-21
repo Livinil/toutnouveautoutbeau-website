@@ -239,11 +239,21 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .mainheading .lead {
      font-size: .9rem;
-     color: darkgray;
+     color: #ef5022;
+     font-weight: 500;
+}
+.mainheading .lead small{
+    color: #737373;
 }
  .mainheading h1.sitetitle {
      font-family:Righteous;
 }
+ #sitesubtitle {
+     font-size: .75em;
+     padding-top: .4em;
+     color: #16c447;
+     font-style: italic;
+ }
  .mainheading h1.posttitle {
      font-weight:700;
      margin-bottom:1rem;

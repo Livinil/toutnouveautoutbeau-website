@@ -1,9 +1,10 @@
 # Site
 name: "Tout nouveau, tout beau !"
 description: "Partage de mes aventures dans le monde de la création textile"
+sub-description: "Couture à la main, machine à coudre et surjeteuse - Tricot - Broderie - Travaux manuels"
 meta_description: "Blog, création de vêtements et accessoires, coffrets de naissance, Tout nouveau, tout beau !, couture, tutoriels, boutique, Aline Delvallé"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl:
 google_analytics: 'UA-132326218-1'
 disqus: 'toutnouveautoutbeau'

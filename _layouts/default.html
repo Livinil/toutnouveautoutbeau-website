@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+<link rel="icon" href="{{ site.baseurl }}/{{ site.favicon }}">
     
 <title>{{ page.title }} | {{site.name}}</title>
         
@@ -50,6 +50,7 @@ ga('send', 'pageview');
     <a class="navbar-brand" href="{{ site.baseurl }}/">
     <small class="sitetitle">{{ site.name }}</small>
     </a>
+    <span id="sitesubtitle">Mes créations, tutoriels, découvertes et évolutions</span>
     <!-- End Logo -->
   
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -100,7 +101,8 @@ ga('send', 'pageview');
 <div id="mainheader" class="mainheading">
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     <p class="lead">
-         {{ site.description }}
+         {{ site.description }}<br>
+        <small>-- {{ site.sub-description }} --</small>
     </p>
 </div>
 
