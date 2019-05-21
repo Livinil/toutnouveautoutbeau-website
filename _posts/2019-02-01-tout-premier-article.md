@@ -4,7 +4,7 @@ title:  "Tout premier article !"
 author: aline
 categories: [ présentation, évolution ]
 image: assets/images/1.jpg
-featured: true
+featured: false
 hidden: false
 ---
 Je me lance dans la création d'un blog pour pouvoir partager avec vous mes aventures dans la confection d'ouvrages en couture, mon apprentissage constant de techniques, mes découvertes, le choix des tissus et matières et la création de ma boutique.<br><br>
