@@ -28,7 +28,7 @@ J'espère réussir à vous transmettre l'enthousiasme que j'ai à propos de mes 
 <div class="col-md-6 pr-5">    
 <h5>La boutique</h5>
 <p>Je suis fière de vous annoncer que vous pourrez très prochainement consulter ma boutique en ligne que je compte ouvrir sur la plateforme Etsy et y trouver des cadeaux de naissance qui j'espère vous plairont.</p>
-<p style="background-color:white; padding:1.2em;">En attendant vous pouvez voir mes créations à travers mes articles sur ce <a href="/index.html">blog</a> et me suivre sur <a href="https://www.instagram.com/aline_delvalle" target="_blank">Instragram</a>.<br>
-<b>Si vous voulez me passer commande n'hésitez pas à me contacter en message privé sur Instagram ou par email : aline@toutnouveautoutbeau.fr</b></p>
+<p style="background-color:white; padding:1.2em;">En attendant vous pouvez voir mes créations à travers mes articles sur ce <a href="/index.html">blog</a> et me suivre sur <a href="https://www.instagram.com/aline_delvalle" target="_blank">Instragram</a> et <a href="https://www.facebook.com/aline.tntb" target="_blank">Facebook</a>.<br>
+<b style="display: block; padding-top: .5em;">Si vous voulez me passer commande n'hésitez pas à me contacter en message privé sur Instagram ou par email : aline@toutnouveautoutbeau.fr</b></p>
 </div>
 </div>
