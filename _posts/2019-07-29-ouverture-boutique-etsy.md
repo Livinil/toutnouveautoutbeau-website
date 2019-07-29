@@ -8,7 +8,7 @@ featured: true
 hidden: false
 ---
 
-Après quelques séjours à l'étranger, comme vous avez pu le voir sur mon instragram, je me suis posée pour enfin ouvrir ma boutique sur Etsy avec les quelques pochons que j'avais préparés.<br>
+Après quelques séjours à l'étranger, comme vous avez pu le voir sur mon <a href="https://www.instagram.com/aline_delvalle" target="_blank">instragram</a>, je me suis posée pour enfin ouvrir ma boutique sur Etsy avec les quelques pochons que j'avais préparés.<br>
 Pour débuter sur la boutique, je propose des articles différents dans chaque composition pour vous montrer la variété des modèles que je peux vous confectionner.
 
 <a class="etsy-link" style="
