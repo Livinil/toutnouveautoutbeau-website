@@ -4,7 +4,7 @@ title:  "Bientôt - ouverture de ma boutique en ligne"
 author: aline
 categories: [ boutique, évolution ]
 image: assets/images/2.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

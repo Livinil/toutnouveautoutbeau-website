@@ -701,3 +701,10 @@ License: https://www.wowthemes.net/freebies-license/
 .sticky-top-80 {
     top:80px;
 }
+
+.etsy-link {
+    color: #f35800;
+}
+.etsy-link:hover {
+    color: #a34008;
+}
