@@ -4,7 +4,7 @@ title:  "Pourquoi j'ai déjà changé le système de personnalisation des comman
 author: aline
 categories: [ boutique, évolution ]
 image: assets/images/24.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

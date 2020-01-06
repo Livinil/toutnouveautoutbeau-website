@@ -4,7 +4,7 @@ title:  "Ouverture de la boutique en ligne sur Etsy"
 author: aline
 categories: [ boutique, évolution ]
 image: assets/images/22.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

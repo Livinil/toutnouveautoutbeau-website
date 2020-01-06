@@ -4,7 +4,7 @@ title:  "Tapis de voiture nomade"
 author: aline
 categories: [ confections, cadeau, famille, tuto, technique ]
 image: assets/images/tapis_voiture_2.jpg
-featured: false
+featured: true
 hidden: false
 ---
 
