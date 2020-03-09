@@ -2,10 +2,10 @@
 layout: post
 title:  "Pourquoi j'ai déjà changé le système de personnalisation des commandes sur ma boutique"
 author: aline
-categories: [ boutique, évolution ]
+categories: [ boutique, évolution, patron ]
 image: assets/images/24.jpg
 featured: false
-hidden: false
+hidden: true
 ---
 
 Cette semaine j'ai réalisé ma première vente sur ma boutique Etsy.<br>
