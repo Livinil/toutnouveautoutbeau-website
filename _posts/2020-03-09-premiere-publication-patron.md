@@ -18,7 +18,7 @@ Comme certains d'entre vous ont pu le voir sur mon <a href="https://www.instagra
     color: #f52c47;
     padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Lien vers la boutique Makerist</a>
 
-Au départ, j'avais décidé de mettre au propre un de mes patrons, le <a href="https://www.etsy.com/fr/listing/759761705/bavoir-elastique-avec-epaulettes-et-2" target="_blank">bavoir "Ernest".</a> Une fois les contours bien dessiner, les détails ajoutés sur les marges, les points d'arrêts, le sens du droit fil et des motifs, etc. Je me suis dit que je pouvais le commercialiser, mais il me fallait dans ce cas rédiger les explications.<br><br>
+Au départ, j'avais décidé de mettre au propre un de mes patrons, le <a href="https://www.etsy.com/fr/listing/759761705/bavoir-elastique-avec-epaulettes-et-2" target="_blank">bavoir "Ernest".</a> Une fois les contours bien dessinés, les détails ajoutés sur les marges, les points d'arrêts, le sens du droit fil et des motifs, etc. Je me suis dit que je pouvais le commercialiser, mais il me fallait dans ce cas rédiger les explications.<br><br>
 
 <div float="left" style="text-align:center">
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/35.jpg" width="350" alt="Photo bavoir à épulettes Ernest"/><em style="display:block; font-size: .8em">Le bavoir "Ernest"</em></p>
