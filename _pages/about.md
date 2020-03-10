@@ -26,14 +26,21 @@ J'espère réussir à vous transmettre l'enthousiasme que j'ai à propos de mes 
 </div>
 
 <div class="col-md-6 pr-5">    
-<h5>La boutique</h5>
+<h5>Les boutiques</h5>
 <a class="etsy-link" style="
     background-color: white;
     margin-bottom: 2em;
     display: block;
     text-align: center;
     padding: .3em;
-" href="https://www.etsy.com/fr/shop/ToutNouveauToutBeau" target="_blank">Lien vers la boutique sur Etsy</a>
+" href="https://www.etsy.com/fr/shop/ToutNouveauToutBeau" target="_blank">Etsy - La boutique de confections pour bébé</a>
+<a class="makerist-link" style="
+    background-color: white;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;
+" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Makerist - La boutique de patrons</a>
 <p style="background-color:white; padding:1.2em;">Vous pouvez me suivre à travers mes articles sur ce <a href="/index.html">blog</a>, sur <a href="https://www.instagram.com/aline_delvalle" target="_blank">Instragram</a> et <a href="https://www.facebook.com/aline.tntb" target="_blank">Facebook</a>.<br>
 <b style="display: block; padding-top: .5em;">Si vous voulez me passer commande n'hésitez pas à me contacter en message privé sur Etsy, Instagram, Facebook ou par email : aline@toutnouveautoutbeau.fr</b></p>
 </div>
