@@ -2,7 +2,7 @@
 layout: post
 title:  "Le patron du sac \"Gaïa\" est en ligne"
 author: aline
-categories: [ boutique, évolution ]
+categories: [ boutique, patron ]
 image: assets/images/37.jpg
 featured: true
 hidden: false
@@ -24,7 +24,7 @@ Il peut contenir jusqu'à 20 lingettes et se fermer pour les garder au propre.<b
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/39.jpg" width="350" alt="Photo sac Gaïa intérieur"/><em style="display:block; font-size: .8em">L'intérieur du sac "Gaïa"</em></p>
 </div>
 
-J'ai décidé de travailler sur ce patron et son tutoriel, car il s'agit d'un de mes best-sellers parmi mes confections. Les lingettes lavables sont devenues indispensables en terme d'écologie et beaucoup de gens en utilise désormais. Il m'a donc paru intéressant de proposer ce type de patron pour les couturiers et couturières.<br>
+J'ai décidé de travailler sur ce patron et son tutoriel, car il s'agit d'un de mes best-sellers parmi mes confections. Les lingettes lavables sont devenues indispensables en terme d'écologie et beaucoup de gens en utilise désormais. Il m'a donc paru intéressant de proposer ce type de patron pour les couturiers et couturières.<br><br>
 Pas besoin d'une grande expérience en couture pour réaliser ce sac, je pense même que ce tutoriel est idéal pour une première expérience en couture. La liste des fournitures nécessaires est détaillée sur <a href="https://www.makerist.fr/patterns/le-sac-gaia" target="_blank">Makerist</a>, il suffit seulement de quelques chutes de tissus et d'une machine à coudre. Beaucoup de morceaux de tissus différents sont listés, mais vous pouvez utiliser plusieurs fois le même tissu, selon vos goûts.<br><br>
 
 Je suis heureuse de voir que mon premier patron se vend bien depuis sa publication il y a environ un mois. Je vais essayer d'en produire régulièrement et peut-être d'en faire une de mes principales activités, avec toujours la confection de vêtements et accessoires pour bébé.<br>

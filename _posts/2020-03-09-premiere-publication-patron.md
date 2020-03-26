@@ -2,7 +2,7 @@
 layout: post
 title:  "Première publication d'un de mes patrons"
 author: aline
-categories: [ boutique, évolution ]
+categories: [ boutique, évolution, patron ]
 image: assets/images/34.jpg
 featured: true
 hidden: false
