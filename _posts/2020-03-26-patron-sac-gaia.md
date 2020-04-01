@@ -15,7 +15,7 @@ Il y a quelques jours, j'ai publié mon deuxième patron sur Makerist. Il s'agit
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Lien vers la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
 
 Il peut contenir jusqu'à 20 lingettes et se fermer pour les garder au propre.<br>
 

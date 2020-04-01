@@ -15,7 +15,7 @@ Comme certains d'entre vous ont pu le voir sur mon <a href="https://www.instagra
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Lien vers la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
 
 Au départ, j'avais décidé de mettre au propre un de mes patrons, le <a href="https://www.etsy.com/fr/listing/759761705/bavoir-elastique-avec-epaulettes-et-2" target="_blank">bavoir "Ernest".</a> Une fois les contours bien dessinés, les détails ajoutés sur les marges, les points d'arrêts, le sens du droit fil et des motifs, etc. Je me suis dit que je pouvais le commercialiser, mais il me fallait dans ce cas rédiger les explications.<br><br>
 
