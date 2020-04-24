@@ -4,7 +4,7 @@ title:  "Confectionnez le sac \"Ginger\" pour Pâques en un tour de main"
 author: aline
 categories: [ boutique, patron ]
 image: assets/images/40.jpg
-featured: true
+featured: false
 hidden: false
 ---
 <br>

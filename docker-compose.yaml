@@ -4,7 +4,7 @@ services:
     environment:
       - JEKYLL_ENV=docker
     command: jekyll serve --config  _config.yml,_config.docker.yml --livereload --force_polling --incremental
-    image: jekyll/jekyll
+    image: jekyll/jekyll:3
     volumes:
       - .:/srv/jekyll
     ports:
