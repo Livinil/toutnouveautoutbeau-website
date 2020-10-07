@@ -4,7 +4,7 @@ title:  "Le patron de la blouse \"Hina\" est sorti"
 author: aline
 categories: [ boutique, patron ]
 image: assets/images/46.jpg
-featured: false
+featured: true
 hidden: false
 ---
 <p style="color:#ef5022; text-align:center; font-style:italic;">Prix de lancement : -20% jusqu'au 13 octobre 2020</p>
