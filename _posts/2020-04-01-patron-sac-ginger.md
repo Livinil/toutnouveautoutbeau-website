@@ -10,7 +10,7 @@ hidden: false
 <br>
 Aujourd'hui je vous propose un patron spécial Pâques. Si vous avez l'habitude d'aller chasser les oeufs et chocolats avec vos enfants pour Pâques, cette année ne devrait pas être différente malgré cette période compliquée.<br><br>
 Il vous suffit d'avoir quelques chutes de tissus et une boîte de céréales ou similaire pour vous lancer dans la confection de ce sac en forme de seau et aux airs de poulette !<br>
-Retrouver la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/le-sac-ginger" target="_blank">la fiche du patron et de ses explications</a>.
+Retrouvez la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/le-sac-ginger" target="_blank">la fiche du patron et de ses explications</a>.
  
 <a class="makerist-link" style="
     background-color: white;

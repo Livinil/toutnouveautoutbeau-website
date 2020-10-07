@@ -12,7 +12,7 @@ J'ai récemment sorti mon quatrième patron et cette fois-ci c'est un vêtement 
 On reste dans l'univers des enfants, car il s'agit d'une petite blouse pour fille. Le patron permet de réaliser plusieurs tailles, du 3 au 24 mois.<br>
 Je pense qu'elle pourrait vite devenir un indispensable pour les saisons estivales. En plus, elle est déclinable à volonté, selon le choix des tissus.<br>
 
-Retrouver la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/la-blouse-hina-du-3-au-24-mois" target="_blank">la fiche du patron et de ses explications</a>.
+Retrouvez la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/la-blouse-hina-du-3-au-24-mois" target="_blank">la fiche du patron et de ses explications</a>.
  
 <a class="makerist-link" style="
     background-color: white;
