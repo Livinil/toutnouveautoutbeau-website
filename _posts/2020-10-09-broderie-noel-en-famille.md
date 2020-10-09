@@ -28,4 +28,4 @@ Voici le motif à reporter et ses instructions (faites un clic droit sur l'image
 
 Je vous laisse retrouver tous les détails dans ma vidéo Youtube. Ma première vidéo en face caméra ! Ce n'est pas un exercice facile, mais je voulais que vous commenciez à me connaître en personne. En espérant que vous soyez indulgents... À vos tambours !<br>
 
-<p style="text-align:center"><iframe src="https://youtu.be/0pZNY0mBJDQ" width="560" height="315" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe src="https://www.youtube.com/embed/0pZNY0mBJDQ" width="560" height="315" frameborder="0" allowfullscreen></iframe></p>
