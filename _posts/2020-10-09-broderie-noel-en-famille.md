@@ -16,7 +16,7 @@ On peut lire "Noël en famille" sur ce motif, car cela fait sens pour moi, c'est
 J'ai commencé à dessiner les plantes sur ma tablette et j'ai eu l'idée de le transformer pour pouvoir le broder.<br>
 Après avoir testé de le broder, j'ai décidé de vous l'offrir pour que vous puissiez, vous aussi, avoir votre petite déco personnalisée pour Noël.<br><br>
 Je suis débutante en broderie et j'ai appris à faire le point de noeud et le point arrière pour pouvoir réaliser celle-ci (je ne connaissais que le point de tige). Il me semble donc que c'est à la portée de toute personne voulant s'y mettre.<br>
-
+Je vous indique quels points utiliser plus bas et dans la vidéo que j'ai faites pour l'occasion. Je vous y montre également comment faire tous ces points.<br>
 
 
 Voici le motif à reporter et ses instructions (faites un clic droit sur l'image, choisissez « Enregistrer l'image sous... » dans le menu et sélectionnez l'emplacement où l'enregistrer).
@@ -26,3 +26,6 @@ Voici le motif à reporter et ses instructions (faites un clic droit sur l'image
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/broderie-motif-noel-famille-instructions.jpg" width="380" alt="Le motif de broderie avec ses instructions"/><em style="display:block; font-size: .8em">Les instructions</em></p>
 </div>
 
+Je vous laisse retrouver tous les détails dans ma vidéo Youtube. Ma première vidéo en face caméra ! Ce n'est pas un exercice facile, mais je voulais que vous commenciez à me connaître en personne. En espérant que vous soyez indulgents... À vos tambours !<br>
+
+<p style="text-align:center"><iframe src="https://youtu.be/0pZNY0mBJDQ" width="560" height="315" frameborder="0" allowfullscreen></iframe></p>
