@@ -4,7 +4,7 @@ title:  "Le patron du sac \"Gaïa\" est en ligne"
 author: aline
 categories: [ boutique, patron ]
 image: assets/images/37.jpg
-featured: true
+featured: false
 hidden: false
 ---
 <br>
