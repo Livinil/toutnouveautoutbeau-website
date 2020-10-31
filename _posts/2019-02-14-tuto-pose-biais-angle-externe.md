@@ -4,7 +4,7 @@ title:  "[Tuto] Pose d'un biais dans un angle externe"
 author: aline
 categories: [ tuto, biais, technique ]
 image: assets/images/5.jpg
-featured: true
+featured: false
 hidden: false
 ---
 Le biais est une bande de tissu coupée dans la diagonale du tissu. Le poser sur les bords de nos confections permet en général d'obtenir une meilleure finition. Cependant, ce n'est pas toujours bien facile de le poser, surtout lorsque l'on est débutant en couture.
