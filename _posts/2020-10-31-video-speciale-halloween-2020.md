@@ -4,7 +4,7 @@ title: "Retrouvez nos petites galères de couturiers dans cette vidéo spéciale
 author: aline
 categories: [ video, halloween, humour ]
 image: assets/images/52.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

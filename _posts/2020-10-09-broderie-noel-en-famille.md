@@ -4,7 +4,7 @@ title: "Commencez à préparer vos décorations de Noël"
 author: aline
 categories: [ broderie, cadeau, décoration, noël ]
 image: assets/images/50.jpg
-featured: true
+featured: false
 hidden: false
 ---
 Et oui je vous parle déjà de Noël ! Il vaut mieux s'y prendre un peu en avance pour les petites confections "fait-main". Vous ne trouvez pas ?<br><br>

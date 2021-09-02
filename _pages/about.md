@@ -12,7 +12,7 @@ comments: true
 <h5>Aline</h5>
 <div>
 <img class="about-thumb" src="https://www.gravatar.com/avatar/0ec26da97a064b0cd49555d9ee0da48f?s=250&amp;d=mm&amp;r=x" alt="Aline">
-<span class="about-author-description"> Créatrice de vêtements et accessoires, se spécialisant dans les confections pour bébés.<br>Créatrice de la boutique 'Tout nouveau, tout beau !'</span>
+<span class="about-author-description"> Créatrice de vêtements et accessoires, se spécialisant dans la création de patrons accessibles pour tous.<br>Créatrice de la boutique 'Tout nouveau, tout beau !' sur <a href="https://www.etsy.com/fr/shop/ToutNouveauToutBeau" target="_blank">Etsy</a> et sur <a href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Makerist</a></span>
 </div>
 <br>
 <p>
