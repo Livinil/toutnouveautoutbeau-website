@@ -4,7 +4,7 @@ title:  "Fabriquez un \"masque barrière\" selon les recommandations AFNOR - Tut
 author: aline
 categories: [ video, tuto, masque, technique ]
 image: assets/images/45.jpg
-featured: true
+featured: false
 hidden: false
 ---
 <br>

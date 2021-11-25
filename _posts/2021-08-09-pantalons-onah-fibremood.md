@@ -2,7 +2,7 @@
 layout: post
 title:  "Mes premiers pantalons cousus main"
 author: aline
-categories: [ cousette, vêtement, confection, couture, créations ]
+categories: [ cousette, vêtement, confection, couture ]
 image: assets/images/171.jpg
 featured: false
 hidden: false

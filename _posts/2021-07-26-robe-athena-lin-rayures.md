@@ -4,7 +4,7 @@ title:  "Ma participation au défi couture #patronathena"
 author: aline
 categories: [ cousette, vêtement, confection, couture ]
 image: assets/images/159.jpg
-featured: true
+featured: false
 hidden: false
 ---
 <p>
