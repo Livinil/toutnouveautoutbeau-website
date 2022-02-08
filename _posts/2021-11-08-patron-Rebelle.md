@@ -9,7 +9,7 @@ hidden: false
 ---
 <p>
 La blouse Rebelle est faite pour les nanas qui ont soif d'action. Il vous ira parfaitement pour aller au travail, à un entretien d'embauche ou pourquoi pas à une réunion parent-prof.<br>
-Avec Rebelle, affrontez votre quotidien avec style et confiance avec la blouse Rebelle<br><br>
+Affrontez votre quotidien avec style et confiance avec la blouse Rebelle<br><br>
 
 Ses différents empiècements lui apportent un effet déconstruit / structuré et les manches raglan lissent sa silhouette avec ses lignes continues et près du corps.<br>
 

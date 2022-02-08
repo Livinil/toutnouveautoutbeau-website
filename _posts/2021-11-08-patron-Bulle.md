@@ -38,7 +38,7 @@ Bulle a été testé et validé par mes supers testeuses :<br><br>
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/225.jpg" width="250" alt="Photo Bulle vert doux"/></p>
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/226.jpg" width="250" alt="Photo Bulle vert doux"/></p>
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/227.jpg" width="250" alt="Photo Bulle vert doux"/></p>
-    <em style="display:block; font-size: .8em; font-style: italic; margin-top: -15px; color: #f52c47;">La version de la blouse Rebelle par <a href="https://www.instagram.com/h_fram_boise/" target="_blank">Hélène</a></em>
+    <em style="display:block; font-size: .8em; font-style: italic; margin-top: -15px; color: #f52c47;">La version du sweat Bulle par <a href="https://www.instagram.com/h_fram_boise/" target="_blank">Hélène</a></em>
 </div>
 <br><br>
 
@@ -46,7 +46,7 @@ Bulle a été testé et validé par mes supers testeuses :<br><br>
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/201.jpg" width="250" alt="Photo Bulle bleu, rouge, rose"/></p>
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/228.jpg" width="250" alt="Photo Bulle bleu, rouge, rose"/></p>
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/229.jpg" width="250" alt="Photo Bulle bleu, rouge, rose"/></p>
-    <em style="display:block; font-size: .8em; font-style: italic; margin-top: -15px; color: #f52c47;">La version de la blouse Rebelle par <a href="https://www.instagram.com/atenafrodite/" target="_blank">Mireille</a></em>
+    <em style="display:block; font-size: .8em; font-style: italic; margin-top: -15px; color: #f52c47;">La version du sweat Bulle par <a href="https://www.instagram.com/atenafrodite/" target="_blank">Mireille</a></em>
 </div>
 <br>
 

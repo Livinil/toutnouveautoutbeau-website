@@ -46,9 +46,9 @@ Belle a été testé et validé par mes supers testeuses :<br><br>
 <br><br>
 
 <div float="left" style="text-align:center">
-    <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/218.jpg" width="250" alt="Photo Belle jersey blan ballerines"/></p>
-    <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/219.jpg" width="250" alt="Photo Belle jersey blan ballerines"/></p>
-    <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/220.jpg" width="250" alt="Photo Belle jersey blan ballerines"/></p>
+    <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/218.jpg" width="250" alt="Photo Belle jersey blanc ballerines"/></p>
+    <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/219.jpg" width="250" alt="Photo Belle jersey blanc ballerines"/></p>
+    <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/220.jpg" width="250" alt="Photo Belle jersey blanc ballerines"/></p>
     <em style="display:block; font-size: .8em; font-style: italic; margin-top: -15px; color: #f52c47;">La version du pull Belle par <a href="https://www.instagram.com/atenafrodite/" target="_blank">Mireille</a></em>
 </div>
 <br>
