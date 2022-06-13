@@ -4,7 +4,7 @@ title:  "La blouse Rebelle - Les patrons des supers nanas"
 author: aline
 categories: [ cousette, vêtement, confection, couture, créations, patrons ]
 image: assets/images/205.jpg
-featured: true
+featured: false
 hidden: false
 ---
 <p>

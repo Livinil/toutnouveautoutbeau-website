@@ -4,7 +4,7 @@ title:  "Blouse \"Hélène\" - le patron est en ligne"
 author: aline
 categories: [ boutique, patron ]
 image: assets/images/54.jpg
-featured: false
+featured: true
 hidden: false
 ---
 <p>Après beaucoup d'heures de créations, formations, calculs, doutes, tests, découpes, couture, finitions, photos, stress, rédactions, joie, corrections, etc. Je peux enfin dire que j'ai réalisé mon premier patron pour adulte et ça ne sera sûrement pas le dernier puisque je suis déjà en train de travailler sur le prochain !<br><br>Je vous présente donc la blouse Hélène, une blouse légère avec un col tunisien et des manches tulipes qui lui donne un côté doux et romantique.<br><br>J'ai appris à utiliser le logiciel Seamly2D pour numériser mon patron et le grader. Ainsi le patron va de la taille 36 au 46.</p>

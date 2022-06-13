@@ -4,7 +4,7 @@ title:  "Mon alternative (ou complément) à la crème solaire"
 author: aline
 categories: [ cousette, vêtement, confection, couture, créations ]
 image: assets/images/154.jpg
-featured: false
+featured: true
 hidden: false
 ---
 <p>

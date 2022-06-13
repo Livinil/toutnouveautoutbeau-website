@@ -4,7 +4,7 @@ title:  "Top \"Elvie\" - le patron est en ligne"
 author: aline
 categories: [ boutique, patron ]
 image: assets/images/147.jpg
-featured: false
+featured: true
 hidden: false
 ---
 <p>
