@@ -4,7 +4,7 @@ title:  "Pull \"Margot\" - le patron est en ligne"
 author: aline
 categories: [ boutique, patron ]
 image: assets/images/101.jpg
-featured: false
+featured: true
 hidden: false
 ---
 <p>

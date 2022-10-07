@@ -4,7 +4,7 @@ title:  "Du tartan pour le manteau Pam"
 author: aline
 categories: [ cousette, vêtement, confection, couture ]
 image: assets/images/230.jpg
-featured: false
+featured: true
 hidden: false
 ---
 <p>

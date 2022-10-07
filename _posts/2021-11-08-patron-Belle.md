@@ -4,7 +4,7 @@ title:  "Le pull Belle - Les patrons des supers nanas"
 author: aline
 categories: [ cousette, vêtement, confection, couture, créations, patrons ]
 image: assets/images/212.jpg
-featured: false
+featured: true
 hidden: false
 ---
 <p>

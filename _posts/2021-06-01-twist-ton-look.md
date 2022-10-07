@@ -4,7 +4,7 @@ title:  "Twist ton look - tuto"
 author: aline
 categories: [ cousette, vêtement, confection, couture, créations, tuto, technique ]
 image: assets/images/138.jpg
-featured: true
+featured: false
 hidden: false
 ---
 <p>

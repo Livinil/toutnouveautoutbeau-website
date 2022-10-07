@@ -4,7 +4,7 @@ title:  "Le sweat Bulle - Les patrons des supers nanas"
 author: aline
 categories: [ cousette, vêtement, confection, couture, créations, patrons ]
 image: assets/images/221.jpg
-featured: false
+featured: true
 hidden: false
 ---
 <p>

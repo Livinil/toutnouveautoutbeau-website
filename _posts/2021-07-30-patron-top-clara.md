@@ -4,7 +4,7 @@ title:  "Top \"Clara\" - le patron est en ligne"
 author: aline
 categories: [ boutique, patron ]
 image: assets/images/163.jpg
-featured: true
+featured: false
 hidden: false
 ---
 <p>

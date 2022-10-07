@@ -4,7 +4,7 @@ title:  "Nouvelle collection Automne/Hiver : les patrons des supers nanas"
 author: aline
 categories: [ cousette, vêtement, confection, couture, créations, patrons ]
 image: assets/images/198.jpg
-featured: true
+featured: false
 hidden: false
 ---
 <p>

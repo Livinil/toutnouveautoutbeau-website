@@ -4,7 +4,7 @@ title:  "Le patron du doudou \"Hugo\" l'hippopo est sorti"
 author: aline
 categories: [ boutique, patron ]
 image: assets/images/123.jpg
-featured: true
+featured: false
 hidden: false
 ---
 <p>
