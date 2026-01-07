@@ -22,14 +22,22 @@ Ses différents empiècements lui apportent un effet déconstruit / structuré e
 
 Ses coutures avec effet passepoilé font toute sa spécificité. À travers les instructions je vous aide à les réaliser le long des manches et au milieu du devant en jouant avec les marges de coutures, des plis et des surpiqûres.<br><br>
 
-Retrouvez la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/la-blouse-rebelle-du-36-au-46" target="_blank">la fiche du patron et de ses explications</a>.<br><br>
+Retrouvez la liste des fournitures nécessaires directement sur <a href="https://wissew.com/fr/patron-couture-wissew/4615-patron-de-couture-la-blouse-rebelle.html" target="_blank">la fiche du patron et de ses explications</a>.<br><br>
  
 <a class="makerist-link" style="
     background-color: white;
     margin-bottom: 1em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist <em>(fermée)</em></a>
+    
+<a class="makerist-link" style="
+    background-color: #f19600;
+    color : #3d2e31;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Aller sur la boutique Wissew</a>
 
 
 Rebelle a été testée et validée par mes supers testeuses :<br><br>
