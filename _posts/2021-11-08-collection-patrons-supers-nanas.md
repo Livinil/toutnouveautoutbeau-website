@@ -34,6 +34,6 @@ Je remercie mes testeuses, les supers nanas <a href="https://www.instagram.com/h
 
 Belle, Bulle et Rebelle sont fait pour vous toutes, les supers nanas !<br><br>
 
-Retrouvez cette nouvelle collection sur <a href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr/ebooks" target="_blank">ma boutique Makerist</a>.<br>
+Retrouvez cette nouvelle collection sur <a href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">ma boutique Wissew</a>.<br>
 
 </p>
