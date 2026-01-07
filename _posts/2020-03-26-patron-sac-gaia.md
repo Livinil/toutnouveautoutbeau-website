@@ -15,7 +15,15 @@ Il y a quelques jours, j'ai publié mon deuxième patron sur Makerist. Il s'agit
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist <em>(fermée)</em></a>
+    
+<a class="makerist-link" style="
+    background-color: #f19600;
+    color : #3d2e31;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Aller sur la boutique Wissew</a>
 
 Il peut contenir jusqu'à 20 lingettes et se fermer pour les garder au propre.<br>
 
@@ -25,7 +33,7 @@ Il peut contenir jusqu'à 20 lingettes et se fermer pour les garder au propre.<b
 </div>
 
 J'ai décidé de travailler sur ce patron et son tutoriel, car il s'agit d'un de mes best-sellers parmi mes confections. Les lingettes lavables sont devenues indispensables en terme d'écologie et beaucoup de gens en utilise désormais. Il m'a donc paru intéressant de proposer ce type de patron pour les couturiers et couturières.<br><br>
-Pas besoin d'une grande expérience en couture pour réaliser ce sac, je pense même que ce tutoriel est idéal pour une première expérience en couture. La liste des fournitures nécessaires est détaillée sur <a href="https://www.makerist.fr/patterns/le-sac-gaia" target="_blank">Makerist</a>, il suffit seulement de quelques chutes de tissus et d'une machine à coudre. Beaucoup de morceaux de tissus différents sont listés, mais vous pouvez utiliser plusieurs fois le même tissu, selon vos goûts.<br><br>
+Pas besoin d'une grande expérience en couture pour réaliser ce sac, je pense même que ce tutoriel est idéal pour une première expérience en couture. La liste des fournitures nécessaires est détaillée sur <a href="https://wissew.com/fr/patron-couture-sacs-et-accessoires/4620-le-sac-gaia-patron-de-couture-pdf.html" target="_blank">Makerist</a>, il suffit seulement de quelques chutes de tissus et d'une machine à coudre. Beaucoup de morceaux de tissus différents sont listés, mais vous pouvez utiliser plusieurs fois le même tissu, selon vos goûts.<br><br>
 
 Je suis heureuse de voir que mon premier patron se vend bien depuis sa publication il y a environ un mois. Je vais essayer d'en produire régulièrement et peut-être d'en faire une de mes principales activités, avec toujours la confection de vêtements et accessoires pour bébé.<br>
 Je prends un réel plaisir à mettre au propre ces patrons basés sur mes idées. La rédaction du tutoriel avec a la prise de photos pour des explications en pas-à-pas puis la mise en page sont assez chronophages, mais cela permet d'avoir des activités variées durant les journées de travail. Ce type de journée me correspond parfaitement !<br><br>
@@ -33,4 +41,4 @@ Je prends un réel plaisir à mettre au propre ces patrons basés sur mes idées
 
 Si vous avez acheté ce patron, je compte sur vous pour me donner votre avis et me joindre pour toutes questions.<br>
 
-<p style="text-align:center"><a href="https://www.makerist.fr/patterns/le-sac-gaia" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sac_Gaïa_promo.png" width="450" alt="Image première page tuto et patron sac Gaïa"/></a></p>
+<p style="text-align:center"><a href="https://wissew.com/fr/patron-couture-sacs-et-accessoires/4620-le-sac-gaia-patron-de-couture-pdf.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sac_Gaïa_promo.png" width="450" alt="Image première page tuto et patron sac Gaïa"/></a></p>
