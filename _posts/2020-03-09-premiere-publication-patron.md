@@ -15,7 +15,15 @@ Comme certains d'entre vous ont pu le voir sur mon <a href="https://www.instagra
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist <em>(fermée)</em></a>
+
+<a class="makerist-link" style="
+    background-color: #f19600;
+    color : #3d2e31;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Aller sur la boutique Wissew</a>
 
 Au départ, j'avais décidé de mettre au propre un de mes patrons, le <a href="https://www.etsy.com/fr/listing/759761705/bavoir-elastique-avec-epaulettes-et-2" target="_blank">bavoir "Ernest".</a> Une fois les contours bien dessinés, les détails ajoutés sur les marges, les points d'arrêts, le sens du droit fil et des motifs, etc. Je me suis dit que je pouvais le commercialiser, mais il me fallait dans ce cas rédiger les explications.<br><br>
 
@@ -32,4 +40,4 @@ Il y aura bien sûr d'autres patrons à venir, car je trouve ça très intéress
 
 Si vous avez acheté ce patron, je compte sur vous pour me donner votre avis et me joindre pour toutes questions !<br>
 
-<p style="text-align:center"><a href="https://www.makerist.fr/patterns/le-bavoir-ernest-et-sa-variante-chic-avec-cravate" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bavoir_Ernest_promo.png" width="450" alt="Image première page tuto et patron bavoir Ernest"/></a></p>
+<p style="text-align:center"><a href="https://wissew.com/fr/patron-couture-wissew/4621-le-bavoir-ernest-et-sa-variante-chic-avec-cravate-patron-de-couture-pdf.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bavoir_Ernest_promo.png" width="450" alt="Image première page tuto et patron bavoir Ernest"/></a></p>
