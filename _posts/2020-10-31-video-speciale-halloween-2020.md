@@ -25,5 +25,5 @@ hidden: false
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Retrouvez mes patrons sur Makerist</a>
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Retrouvez mes patrons sur Wissew</a>
 
