@@ -19,14 +19,22 @@ de fronces.<br>Le patron est prévu de la taille 36 au 46.
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/103.jpg" width="280" alt="Photo pull Margot "/><em style="display:block; font-size: .8em">Le dos du pull Margot</em></p>
 </div>
 
-Retrouvez la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/le-pull-margot-du-36-au-46" target="_blank">la fiche du patron et de ses explications</a>.
+Retrouvez la liste des fournitures nécessaires directement sur <a href="https://wissew.com/fr/patron-couture-wissew/4617-le-pull-margot-patron-de-couture-pdf.html" target="_blank">la fiche du patron et de ses explications</a>.
  
 <a class="makerist-link" style="
     background-color: white;
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist <em>(fermée)</em></a>
+    
+<a class="makerist-link" style="
+    background-color: #f19600;
+    color : #3d2e31;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Aller sur la boutique Wissew</a>
 
 <p>Je recommande une maille plutôt de type tricot pour le tissu principal. Pour le col un tissu de type voile ou dentelle est optimal, vous pouvez opter pour une maille dentelle ajourée si vous préférez ne pas travailler avec un tissu trop fin et délicat. Pour les bandes de fronces, je vous conseille d’utiliser un tissu fluide et léger de type viscose.<br><br>
 Ce modèle nécessite un niveau intermédiaire à avancé, car il faut savoir travailler avec de la maille et des étoffes très légères comme du voile ou de la dentelle. Il faut également savoir réaliser des fronces.<br>Vous pouvez néanmoins en profiter pour apprendre à faire tout ça avec ce patron car des astuces vous sont fournies.<br><br>
@@ -52,4 +60,4 @@ Ce pull a été testé et validé par mes supers testeuses. Vous pouvez faire co
     <em style="display:block; font-size: .8em; font-style: italic; margin-top: -15px; color: #f52c47;">Les versions du pull Margot par mes testeuses <a href="https://www.instagram.com/h_fram_boise/" target="_blank">@h_fram_boise</a> et <a href="https://www.instagram.com/lacouturedeml7/" target="_blank">@lacouturedeml7</a></em>
 </div>
 <br><br>
-<p style="text-align:center"><a href="https://www.makerist.fr/patterns/le-pull-margot-du-36-au-46" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Pull_Margot_promo.png" width="450" alt="Image promo patron et instructions pull Margot "/></a></p>
+<p style="text-align:center"><a href="https://wissew.com/fr/patron-couture-wissew/4617-le-pull-margot-patron-de-couture-pdf.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Pull_Margot_promo.png" width="450" alt="Image promo patron et instructions pull Margot "/></a></p>
