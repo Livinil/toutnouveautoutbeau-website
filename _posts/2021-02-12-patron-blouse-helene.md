@@ -9,14 +9,22 @@ hidden: false
 ---
 <p>Après beaucoup d'heures de créations, formations, calculs, doutes, tests, découpes, couture, finitions, photos, stress, rédactions, joie, corrections, etc. Je peux enfin dire que j'ai réalisé mon premier patron pour adulte et ça ne sera sûrement pas le dernier puisque je suis déjà en train de travailler sur le prochain !<br><br>Je vous présente donc la blouse Hélène, une blouse légère avec un col tunisien et des manches tulipes qui lui donne un côté doux et romantique.<br><br>J'ai appris à utiliser le logiciel Seamly2D pour numériser mon patron et le grader. Ainsi le patron va de la taille 36 au 46.</p>
 
-Retrouvez la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/la-blouse-helene-du-36-au-46" target="_blank">la fiche du patron et de ses explications</a>.
+Retrouvez la liste des fournitures nécessaires directement sur <a href="https://wissew.com/fr/patron-couture-wissew/4622-la-blouse-helene-patron-de-couture-pdf.html" target="_blank">la fiche du patron et de ses explications</a>.
  
 <a class="makerist-link" style="
     background-color: white;
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist <em>(fermée)</em></a>
+    
+<a class="makerist-link" style="
+    background-color: #f19600;
+    color : #3d2e31;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Aller sur la boutique Wissew</a>
 
 <p>Je recommande un tissu léger et fluide de type viscose pour le tissu principal et pour les manches simples et le col tunisien une double gaze pour faire ressortir l’ensemble et donner plus de confort et d’aisance à la blouse.<br><br>
 Ce modèle nécessite un niveau débutant à intermédiaire, car il faut savoir réaliser des fronces et coudre sur plusieurs couches de tissus. Mais vous pouvez en profiter pour apprendre à faire ces fronces avec ce patron, tout est expliqué dans les instructions.<br><br>
@@ -41,4 +49,4 @@ Cette blouse a été testée et validée par des testeuses motivées donc je sui
     <em style="display:block; font-size: .8em; font-style: italic; margin-top: -15px; color: #f52c47;">Les versions de la blouse Hélène par mes testeuses <a href="https://www.instagram.com/h_fram_boise/" target="_blank">@h_fram_boise</a> et <a href="https://www.instagram.com/lacouturedeml7/" target="_blank">@lacouturedeml7</a></em>
 </div>
 <br><br>
-<p style="text-align:center"><a href="https://www.makerist.fr/patterns/la-blouse-helene-du-36-au-46" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Blouse_Helene_promo.png" width="450" alt="Image promo patron et instructions blouse Hélène "/></a></p>
+<p style="text-align:center"><a href="https://wissew.com/fr/patron-couture-wissew/4622-la-blouse-helene-patron-de-couture-pdf.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Blouse_Helene_promo.png" width="450" alt="Image promo patron et instructions blouse Hélène "/></a></p>
