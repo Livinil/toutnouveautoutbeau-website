@@ -11,14 +11,22 @@ hidden: false
 J'ai récemment sorti le patron de ce doudou plat tout mignon et tout doux en forme d'hippopotame.<br>
 On revient dans l'univers des enfants, sur un patron très accessible aux débutants et à prix doux.<br>
 
-Retrouvez la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/le-doudou-hugo-l-hippopo" target="_blank">la fiche du patron et de ses explications</a>.
+Retrouvez la liste des fournitures nécessaires directement sur <a href="https://wissew.com/fr/patron-doudou-plat/4836-le-doudou-hugo-l-hippopo.html" target="_blank">la fiche du patron et de ses explications</a>.
  
 <a class="makerist-link" style="
     background-color: white;
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist <em>(fermée)</em></a>
+    
+<a class="makerist-link" style="
+    background-color: #f19600;
+    color : #3d2e31;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Aller sur la boutique Wissew</a>
 
 Je recommande un tissu doux de type polaire ou éponge en bambou et une popeline ou double gaze avec des couleurs et/ou motifs qui contraste.<br>
 Ce modèle est accessible à tous les débutants en couture.<br><br> 
@@ -34,7 +42,7 @@ En quelques étapes et avec quelques chutes de tissus, vous pouvez réaliser le 
 
 Si vous avez acheté ce patron, je compte sur vous pour me donner votre avis et me joindre pour toutes questions.<br>
 
-<p style="text-align:center"><a href="https://www.makerist.fr/patterns/le-doudou-hugo-l-hippopo" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Doudou_Hugo_promo.png" width="450" alt="Image promo patron et instructions doudou Hugo "/></a></p>
+<p style="text-align:center"><a href="https://wissew.com/fr/patron-doudou-plat/4836-le-doudou-hugo-l-hippopo.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Doudou_Hugo_promo.png" width="450" alt="Image promo patron et instructions doudou Hugo "/></a></p>
 <br>
 Si vous souhaitez obtenir un doudou Hugo sans le coudre vous pouvez passer par ma boutique Etsy et retrouvez les <a href="https://www.etsy.com/fr/listing/804071115/doudou-plat-hippo" target="_blank">modèles disponibles</a>.
 <a class="etsy-link" style="
