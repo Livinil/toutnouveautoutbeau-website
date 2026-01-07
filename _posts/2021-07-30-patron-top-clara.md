@@ -23,14 +23,22 @@ Son côté ample et fluide permet à votre peau de respirer et ses doubles brete
     <p style="display: inline-block; margin-right:.3em;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/166.jpg" width="250" alt="Photo top Clara"/><em style="display:block; font-size: .8em">Les bretelles du top Clara dans le dos</em></p>
 </div>
 
-Retrouvez la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/le-top-clara-du-36-au-46" target="_blank">la fiche du patron et de ses explications</a>.
+Retrouvez la liste des fournitures nécessaires directement sur <a href="https://wissew.com/fr/patron-couture-wissew/4616-patron-de-couture-le-top-clara.html" target="_blank">la fiche du patron et de ses explications</a>.
  
 <a class="makerist-link" style="
     background-color: white;
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist <em>(fermée)</em></a>
+    
+<a class="makerist-link" style="
+    background-color: #f19600;
+    color : #3d2e31;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Aller sur la boutique Wissew</a>
 
 <p>Je recommande un tissu fluide et léger de type viscose, crêpe, satin, lin, etc. Le tissu peut être plus ou moins extensible.<br>Il faut prévoir plus de tissu si vous souhaitez fabriquer votre propre biais.<br><br>
 Ce modèle nécessite un niveau débutant à intermédiaire, car il faut savoir poser du biais.<br>Vous pouvez utiliser un biais déjà préparé assorti au tissu du top ou vous pouvez fabriquer le votre dans le même tissu. Pour cela, des explications vous sont fournies.<br><br>
@@ -44,7 +52,7 @@ Les instructions sont en pas-à-pas avec des photos pour expliquer les technique
 
 Si vous avez acheté ce patron, je compte sur vous pour me donner votre avis et me joindre pour toutes questions.<br>
 
-<p style="text-align:center"><a href="https://www.makerist.fr/patterns/le-top-clara-du-36-au-46" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Top_Clara_promo.png" width="450" alt="Image promo patron et instructions top Clara "/></a></p>
+<p style="text-align:center"><a href="https://wissew.com/fr/patron-couture-wissew/4616-patron-de-couture-le-top-clara.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Top_Clara_promo.png" width="450" alt="Image promo patron et instructions top Clara "/></a></p>
 
 <p>Réalisez ce top pour ajouter une jolie pièce à votre garde robe. Il va devenir un indispensable dans votre garde robe d’été grâce à sa légèreté et son confort.<br><br>
 
