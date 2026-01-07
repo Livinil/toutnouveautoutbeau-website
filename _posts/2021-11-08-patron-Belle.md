@@ -26,14 +26,22 @@ Comme son col, les manches de Belle vous transporte au royaume des princesses et
 
 Comme vous pouvez le voir sur leurs versions plus bas, Hélène et Mireille nous proposent des versions avec un biais différent ou un ourlet, ce qui s'adapte très bien selon le choix des tissus et des préférences.<br><br>
 
-Retrouvez la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/le-pull-belle-du-36-au-46" target="_blank">la fiche du patron et de ses explications</a>.<br><br>
+Retrouvez la liste des fournitures nécessaires directement sur <a href="https://wissew.com/fr/patron-couture-wissew/4614-patron-de-couture-le-pull-belle.html" target="_blank">la fiche du patron et de ses explications</a>.<br><br>
  
 <a class="makerist-link" style="
     background-color: white;
     margin-bottom: 1em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist <em>(fermée)</em></a>
+    
+<a class="makerist-link" style="
+    background-color: #f19600;
+    color : #3d2e31;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Aller sur la boutique Wissew</a>
 
 
 Belle a été testé et validé par mes supers testeuses :<br><br>
