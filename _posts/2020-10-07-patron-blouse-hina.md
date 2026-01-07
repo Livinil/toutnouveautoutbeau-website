@@ -12,14 +12,22 @@ J'ai récemment sorti mon quatrième patron et cette fois-ci c'est un vêtement 
 On reste dans l'univers des enfants, car il s'agit d'une petite blouse pour fille. Le patron permet de réaliser plusieurs tailles, du 3 au 24 mois.<br>
 Je pense qu'elle pourrait vite devenir un indispensable pour les saisons estivales. En plus, elle est déclinable à volonté, selon le choix des tissus.<br>
 
-Retrouvez la liste des fournitures nécessaires directement sur <a href="https://www.makerist.fr/patterns/la-blouse-hina-du-3-au-24-mois" target="_blank">la fiche du patron et de ses explications</a>.
+Retrouvez la liste des fournitures nécessaires directement sur <a href="https://wissew.com/fr/patron-bebe-fille/4618-la-blouse-hina-patron-de-couture-pdf.html" target="_blank">la fiche du patron et de ses explications</a>.
  
 <a class="makerist-link" style="
     background-color: white;
     margin-bottom: 2em;
     display: block;
     text-align: center;
-    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist</a>
+    padding: .3em;" href="https://www.makerist.fr/users/tout_nouveau_tout_beau_fr" target="_blank">Aller sur la boutique Makerist <em>(fermée)</em></a>
+    
+<a class="makerist-link" style="
+    background-color: #f19600;
+    color : #3d2e31;
+    margin-bottom: 2em;
+    display: block;
+    text-align: center;
+    padding: .3em;" href="https://wissew.com/fr/265_tout-nouveau-tout-beau-" target="_blank">Aller sur la boutique Wissew</a>
 
 Je recommande un tissu assez léger et fluide pour un beau tombé, de type popeline, piqué de coton, double gaze, broderie anglaise ou viscose. Le choix est très vaste.<br><br> 
 Ce modèle nécessite un niveau débutant à intermédiaire, car il faut savoir réaliser des fronces et coudre sur plusieurs couches de tissus. Mais vous pouvez en profiter pour apprendre à faire ces fronces avec ce patron, tout est expliqué dans les instructions.<br><br> 
@@ -37,4 +45,4 @@ Elle a une belle tenue et un beau volume grâce à sa doublure qui apporte du co
 
 Si vous avez acheté ce patron, je compte sur vous pour me donner votre avis et me joindre pour toutes questions.<br>
 
-<p style="text-align:center"><a href="https://www.makerist.fr/patterns/la-blouse-hina-du-3-au-24-mois" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Blouse_Hina_promo.png" width="450" alt="Image promo patron et instructions blouse Hina "/></a></p>
+<p style="text-align:center"><a href="https://wissew.com/fr/patron-bebe-fille/4618-la-blouse-hina-patron-de-couture-pdf.html" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Blouse_Hina_promo.png" width="450" alt="Image promo patron et instructions blouse Hina "/></a></p>
